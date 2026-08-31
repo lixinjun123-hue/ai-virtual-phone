@@ -2,10 +2,10 @@
     "name": "float",
     "short_name": "float",
     "description": "float",
-    "id": "/",
-    "start_url": "/",
-    "scope": "/",
-    "display": "standalone",
+    "id": "https://ai-virtual-phone-krv87wet1-629051.vercel.app/",
+"start_url": "https://ai-virtual-phone-krv87wet1-629051.vercel.app/",
+"scope": "https://ai-virtual-phone-krv87wet1-629051.vercel.app/",
+"display": "standalone",
     "display_override": [
         "fullscreen",
         "standalone"
